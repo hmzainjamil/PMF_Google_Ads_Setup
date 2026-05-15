@@ -1,187 +1,139 @@
-# Private Money Funding - Google Ads Setup Package
+# PMF_Google_Ads_Setup
+PMF Google Ads campaign setup — complete structure, bidding, audiences, and tracking for lead gen
 
-## Overview
-Complete Google Ads campaign setup for Private Money Funding (Account: 347-328-6476, Domain: privatemoneyfunding.com). This package contains production-ready ad copy and implementation instructions for two campaigns targeting accredited investors.
+![Google Ads](https://img.shields.io/badge/Google_Ads-Campaign-4285F4?style=flat&labelColor=555)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&labelColor=555&logo=python)
+![GA4](https://img.shields.io/badge/GA4-Tracking-orange?style=flat&labelColor=555)
+![Lead Gen](https://img.shields.io/badge/Goal-Lead_Gen-green?style=flat&labelColor=555)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat&labelColor=555)
 
-## Package Contents
-
-### Files Included
-1. **PMF_Google_Ads_Editor_Import.xlsx** (6.3 KB)
-   - Google Ads Editor import-ready spreadsheet
-   - All ad copy pre-populated and formatted
-   - Ready to import directly into Google Ads account
-
-2. **IMPLEMENTATION_CHECKLIST.md** (9.9 KB)
-   - Comprehensive step-by-step implementation guide
-   - Pre-launch verification checklist
-   - Ongoing monitoring and optimization instructions
-   - Complete technical specifications
-
-3. **README.md** (this file)
-   - Package overview and quick-start guide
-
-## Quick Start
-
-### Step 1: Download Files
-Transfer both files from `/Users/mc/PMF_Google_Ads_Setup/` to your computer
-
-### Step 2: Open Google Ads Editor
-- Download Google Ads Editor (if not already installed)
-- Login to PMF account (347-328-6476)
-
-### Step 3: Import Excel File
-- File → Import
-- Select `PMF_Google_Ads_Editor_Import.xlsx`
-- Review imported data for accuracy
-- Post changes to account
-
-### Step 4: Complete Remaining Setup
-Follow the "Remaining Manual Steps" in IMPLEMENTATION_CHECKLIST.md:
-- Campaign configuration
-- Budget settings
-- Keyword verification
-- Audience targeting (display campaign)
-- Ad extensions
-- Conversion tracking
-- Pre-launch verification
-
-### Step 5: Launch & Monitor
-- Enable campaigns
-- Monitor first 24 hours
-- Optimize based on performance data
-
-## What's Included
-
-### Search Campaign: "PMF - Accredited Investor Search"
-**Budget:** $50/day | **Type:** Responsive Search Ads
-- **15 Headlines:**
-  - Accredited Investor Opportunities Now
-  - Real Estate Syndication for Wealthy Investors
-  - 9% Fixed Annual Return Real Estate
-  - Passive Income from Private Equity
-  - Vetted Real Estate Deals for Accredited Investors
-  - 506(c) Investment Opportunities Available
-  - Private Money Funding Real Estate Syndication
-  - High-Yield Real Estate Investments
-  - Schedule Your Investor Consultation Today
-  - Multifamily Real Estate Syndication Platform
-  - Backed by Real Estate Assets Only
-  - Accredited Investors Only - Apply Now
-  - Direct Access to Real Estate Deals
-  - Professional Syndication Expertise
-  - Wealth Building Through Real Estate
-
-- **4 Descriptions:**
-  - Browse vetted real estate syndication deals designed for accredited investors. Passive income starting at 9% annual return. All deals backed by real property.
-  - Direct access to institutional-quality real estate deals. No crowdfunding middleman. Accredited investors only. Call for exclusive deal flow.
-  - We vet every property. You earn passive income. Real estate syndication simplified for high-net-worth investors. Free consultation available.
-  - Private equity real estate opportunities for accredited investors. 506(c) compliant. Call 480-319-9800 to discuss available deals.
-
-### Display Campaign: "PMF - HNW Investor Audiences"
-**Budget:** $25/day | **Type:** Responsive Display Ads
-- **10 Headlines:**
-  - Real Estate Syndication for Investors
-  - Passive Income Through Real Estate
-  - Multifamily Investing Opportunities
-  - Private Equity Real Estate Deals
-  - 9% Fixed Return Real Estate Investment
-  - Build Wealth with Syndicated Properties
-  - Accredited Investor Network Platform
-  - Real Estate Portfolio Diversification
-  - High-Net-Worth Investment Opportunities
-  - Schedule Your Free Investor Consultation
-
-- **4 Descriptions:**
-  - Explore vetted real estate syndication opportunities for accredited investors. Consistent passive income. Professional deal underwriting.
-  - Join high-net-worth investors building wealth through real estate. Passive income potential. Institutional-quality deal flow.
-  - Multifamily real estate syndication platform for serious investors. Transparent. Vetted. Available now.
-  - Connect with real estate investment opportunities designed for accredited investors. Free consultation with our team.
-
-## Campaign Specifications
-
-| Element | Search Campaign | Display Campaign |
-|---------|-----------------|------------------|
-| **Campaign Name** | PMF - Accredited Investor Search | PMF - HNW Investor Audiences |
-| **Daily Budget** | $50 | $25 |
-| **Ad Type** | Responsive Search Ads | Responsive Display Ads |
-| **Headlines** | 15 | 10 |
-| **Descriptions** | 4 | 4 |
-| **Final URL** | https://privatemoneyfunding.com/ | https://privatemoneyfunding.com/ |
-| **Bid Strategy** | Maximize Conversions | Maximize Conversions |
-| **Keywords** | 18 (9 exact + 9 phrase) | Display Network |
-| **Negative Keywords** | 10 | 10 |
-| **Target Audience** | Search Intent | In-Market, Affinity, Custom Intent |
-
-## Key Messaging
-All ad copy emphasizes:
-- **9% Fixed Annual Returns** - Clear ROI promise
-- **Accredited Investor Qualification** - Regulatory compliance
-- **506(c) Compliance** - Regulation D safe harbor
-- **Passive Income Focus** - Investor benefit
-- **Real Property Backing** - Asset security
-- **Professional Underwriting** - Risk mitigation
-- **Vetted Deals** - Quality assurance
-
-## Compliance & Legal
-
-⚠️ **Important:** Before launching, ensure:
-- Website clearly defines accredited investor requirements
-- All claims (9% returns, etc.) are substantiated
-- Legal review completed for financial services advertising
-- Investor qualification/verification process documented
-- Privacy policy covers lead capture and data handling
-
-## Next Actions
-
-1. **Immediate:**
-   - [ ] Transfer files to your computer
-   - [ ] Review IMPLEMENTATION_CHECKLIST.md completely
-
-2. **This Week:**
-   - [ ] Import Excel file into Google Ads Editor
-   - [ ] Complete campaign configuration
-   - [ ] Setup conversion tracking
-   - [ ] Review and verify all settings
-
-3. **Before Launch:**
-   - [ ] Complete pre-launch verification checklist
-   - [ ] Legal/compliance review
-   - [ ] Test landing page and form submission
-   - [ ] Verify phone tracking setup
-
-4. **After Launch:**
-   - [ ] Monitor first 24 hours
-   - [ ] Review 7-day performance
-   - [ ] Optimize based on data
-   - [ ] Plan ongoing optimization schedule
-
-## Expected Performance
-
-**First 30 Days (Baseline):**
-- Monthly budget: ~$2,250
-- Expected clicks: 200-400
-- Expected qualified leads: 15-30
-- Expected CPA: $75-150 per qualified lead
-
-**Optimization (Days 30-90):**
-- Pause underperforming keywords
-- Increase bids on top converters
-- Test ad copy variations
-- Refine audience targeting
-
-## Support Resources
-
-- **Google Ads Help:** https://support.google.com/google-ads
-- **Google Ads Editor Guide:** https://support.google.com/google-ads/answer/1407190
-- **Responsive Ads Guide:** https://support.google.com/google-ads/answer/7566851
-- **Conversion Tracking:** https://support.google.com/google-ads/answer/1722022
-
-## Version Info
-- **Created:** April 17, 2026
-- **Format:** Google Ads Editor 2.0 compatible
-- **Account:** 347-328-6476
-- **Status:** Ready for production import
+[Concepts](#-concepts) · [How It Works](#️-how-it-works) · [Structure](#-campaign-structure) · [Install](#-install) · [Tips](#-tips-and-tricks-12) · [Startups](#️-startups--businesses)
 
 ---
 
-**All files are ready for immediate import into Google Ads Editor. Follow IMPLEMENTATION_CHECKLIST.md for complete setup instructions.**
+## 🧠 CONCEPTS
+
+| Feature | Location | Description |
+|---------|----------|-------------|
+| [**Campaign Blueprint**](campaign-blueprint.xlsx) | `campaign-blueprint.xlsx` | Full campaign structure: campaigns, ad groups, keywords, bids |
+| [**Keyword Sets**](keywords/) | `keywords/` | Branded, competitor, service, location keyword lists |
+| [**Ad Copy Templates**](ad-copy/) | `ad-copy/` | RSA headlines, descriptions, extensions for PMF vertical |
+| [**Audience Setup**](audiences/) | `audiences/` | Remarketing lists, customer match, similar audiences |
+| [**Conversion Tracking**](tracking/) | `tracking/` | GA4 events, Google Tag, call tracking setup |
+| [**Bidding Strategy**](docs/bidding.md) | `docs/bidding.md` | tCPA ramp protocol: manual CPC → enhanced → tCPA |
+
+### 🔥 Hot
+
+| Feature | Location | Description |
+|---------|----------|-------------|
+| [**tCPA Ramp Protocol**](docs/bidding.md) | `docs/bidding.md` | Week-by-week bidding escalation — avoids learning phase reset |
+| [**Competitor Keywords**](keywords/competitors.csv) | `keywords/competitors.csv` | Competitor brand terms with SKAG structure |
+| [**Extension Stack**](ad-copy/extensions/) | `ad-copy/extensions/` | Sitelinks, callouts, structured snippets, call extensions |
+
+---
+
+## ⚙️ HOW IT WORKS
+
+```
+Campaign Structure:
+├── Brand Campaign (exact match, high bid)
+│   └── [Brand] Ad Group
+├── Service Campaign (broad → phrase → exact funnel)
+│   ├── [Service Type 1] Ad Group
+│   └── [Service Type 2] Ad Group
+├── Competitor Campaign (separate budget, lower CPC target)
+│   └── [Competitor Name] Ad Groups
+└── Remarketing Campaign (RLSA)
+    └── Past visitors — higher bids
+
+Bidding ramp:
+Week 1-2: Manual CPC ($X target)
+Week 3-4: Enhanced CPC
+Week 5+:  tCPA ($X target)
+```
+
+---
+
+## 🚀 INSTALL
+
+```bash
+git clone https://github.com/hmzainjamil/PMF_Google_Ads_Setup
+cd PMF_Google_Ads_Setup
+pip install google-ads openpyxl
+# Configure: credentials.yaml (Google Ads API)
+python3 setup/create_campaigns.py --dry-run
+python3 setup/create_campaigns.py --execute
+```
+
+---
+
+## 📊 CAMPAIGN STRUCTURE
+
+| Campaign | Match Types | Budget % | Goal |
+|---|---|---|---|
+| Brand | Exact | 15% | Defend brand, low CPC |
+| Service - Exact | Exact | 35% | High intent, convert |
+| Service - Phrase | Phrase | 25% | Mid funnel, learn |
+| Competitor | Exact + Phrase | 15% | Conquest |
+| Remarketing | All | 10% | Re-engage |
+
+---
+
+## 💡 TIPS AND TRICKS (12)
+
+[structure](#tips-structure) · [bidding](#tips-bidding) · [keywords](#tips-keywords) · [tracking](#tips-tracking)
+
+<a id="tips-structure"></a>■ **Structure (3)**
+
+| Tip | Source |
+|-----|--------|
+| One theme per ad group — single keyword ad groups (SKAG) for max QS control | [HMZ](https://github.com/hmzainjamil) |
+| Separate brand campaign — never mix brand + generic, different CPC economics | [DigiMinds](https://github.com/hmzainjamil) |
+| Competitor campaign at 80% of service CPC — conquest with margin protection | [HMZ](https://github.com/hmzainjamil) |
+
+<a id="tips-bidding"></a>■ **Bidding (3)**
+
+| Tip | Source |
+|-----|--------|
+| Never switch to tCPA with <30 conversions — learning phase needs data | [Google Ads Best Practices](https://ads.google.com/intl/en_us/home/resources/) |
+| tCPA target = 1.5x actual CPA for first 2 weeks — give algorithm room to learn | [HMZ](https://github.com/hmzainjamil) |
+| Lower tCPA by 10% max per adjustment — aggressive cuts reset learning phase | [DigiMinds](https://github.com/hmzainjamil) |
+
+<a id="tips-keywords"></a>■ **Keywords (3)**
+
+| Tip | Source |
+|-----|--------|
+| Run search terms report weekly — add negatives before waste compounds | [HMZ](https://github.com/hmzainjamil) |
+| Pause broad match until tCPA is stable — broad in learning phase = wasted spend | [DigiMinds](https://github.com/hmzainjamil) |
+| Location modifiers for local: "[service] near me", "[service] [city]" | [HMZ](https://github.com/hmzainjamil) |
+
+<a id="tips-tracking"></a>■ **Tracking (3)**
+
+| Tip | Source |
+|-----|--------|
+| Import GA4 goals into Google Ads — richer attribution than Google Tag alone | [HMZ](https://github.com/hmzainjamil) |
+| Call tracking: set 60s as conversion threshold — under 60s = wrong number | [DigiMinds](https://github.com/hmzainjamil) |
+| Enhanced conversions: wire first-party data — improves tCPA 15-25% on average | [Google](https://support.google.com/google-ads/answer/9888656) |
+
+---
+
+## ☠️ STARTUPS / BUSINESSES
+
+| This Repo / Feature | Replaced |
+|-|-|
+| **Campaign blueprint** | [Optmyzr](https://optmyzr.com), [WordStream](https://wordstream.com) setup tools |
+| **tCPA ramp protocol** | Agency retainers charging $1,500/mo for bidding management |
+| **Keyword sets** | [SEMrush](https://semrush.com), [Ahrefs](https://ahrefs.com) keyword research — free here |
+| **Conversion tracking setup** | [Analyzify](https://analyzify.com), [Elevar](https://getelevar.com) tracking services |
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hmzainjamil/PMF_Google_Ads_Setup&type=Date)](https://star-history.com/#hmzainjamil/PMF_Google_Ads_Setup&Date)
+
+---
+
+<div align="center">
+Built by <a href="https://github.com/hmzainjamil">HMZ</a> · <a href="https://digiminds.org">DigiMinds</a> · Google Ads lead gen framework
+</div>
